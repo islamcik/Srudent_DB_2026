@@ -1,2 +1,2 @@
-# Srudent_DB_2026
-Student Performance Analysis (SQL &amp; Python)
+# Student Performance Analysis (SQL &amp; Python)
+## Projektübersicht
