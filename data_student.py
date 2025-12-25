@@ -10,7 +10,7 @@ print(data.info())
 
 # Create MySQL connection
 engine = create_engine(
-    "mysql+pymysql://islam:1909@localhost:3306/Student"
+    "mysql+pymysql://islam:****@localhost:3306/Student"
 )
 
 # Write DataFrame to MySQL table
@@ -20,3 +20,4 @@ data.to_sql(
     if_exists="replace",
     index=False
 )
+
