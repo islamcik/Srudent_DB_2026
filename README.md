@@ -24,7 +24,8 @@ Welche Klasse erzielt die besten Mathe-Ergebnisse?
 
 Wie unterscheiden sich die Ergebnisse im Vergleich zum Vorjahr?
 
-## Alle SQL-Abfragen befinden sich im Ordner /sql.
+## 
+Alle SQL-Abfragen befinden sich im Ordner /sql.
 
 
 
